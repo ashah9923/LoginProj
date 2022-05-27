@@ -4,16 +4,6 @@
 #include <limits>
 #include <stdexcept>
 
-// int main()
-// {
-//     system("cls");
-//     LoginManager lM;
-//     lM.registerUser();
-//     lM.login();
-//     return 0;
-// }
-
-
 
 
 int main()
